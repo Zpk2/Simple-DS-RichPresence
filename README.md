@@ -1,5 +1,7 @@
-# Simple-DS-RichPresence
+# Simple Discord RichPresence
 Un logiciel simple qui permet d'avoir une rich presence discord ( Joue à ... ) personnalisée simplement.
+
+⚠️ **En téléchargent le logiciel veillez a bien télécharger et mettre le fichier "discord-rpc-w32" qui est essentiel au fonctionnement du logiciel dans le même répertoire que l'application !**
 
 ![aperçu](https://niaso.cf/image/SimpleRPC.PNG)
 
