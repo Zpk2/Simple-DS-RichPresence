@@ -31,6 +31,8 @@ Une fois cela fait vous devrez aller dans la categorie "Rich Presence"
  
  Vous devrez choisir une image pour votre rich presence. Une fois fait descendez en bas de la page et il y-aura un bouton "Add Image(s) cliquez dessus et ajoutez a nouveaux votre image et optionellement une deuxieme image qui s' affichera en bas a droit de l'image principale et retenez le nom que vous leur avez donner
  
+ ![Aide 6](https://niaso.cf/image/Aide6.PNG)
+ 
  Une fois tout ça fait lancer l'application Simple RPC que vous avez téléchargée
  
  ![aperçu](https://niaso.cf/image/SimpleRPC.PNG)
